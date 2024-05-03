@@ -27,11 +27,12 @@ function FirstComponent() {
         <div className='flex w-full max-w-[912px] py-24 gap-20'>
             {
                 depoiments.map(({depoiment, name, product, id, image}) => (
-                    <div key={id} className='flex flex-col items-center gap-2'>
-                        <p className='text-sm font-medium text-white font-inter'>{depoiment}</p>
-                        <img src={image} />
-                        <p>{name}</p>
-                        <p>{product}</p>
+                    <div key={id} className='max-w-[236px] flex flex-col items-center justify-between gap-8'>
+                        <p className='text-sm font-medium text-white font-inter font-montserrat'>{depoiment}</p>
+                        <div className='w-full flex flex-col items-center gap-4'>
+                            <img src={image} />
+                            <p className='text-sm text-white text-xs font-bold uppercase font-montserrat'>{name}</p>
+                        </div>
                     </div>
                 ))
             }

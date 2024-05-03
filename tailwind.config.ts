@@ -15,6 +15,7 @@ const config: Config = {
       fontFamily: {
         poppins: ["poppins", "sans-serif"],
         josefin: ["josefin", "sans-serif"],
+        montserrat: ["montserrat", "sans-serif"]
       },
       boxShadow: {
         'first-component-shadow': '-5px 5px 10px 4px rgba(0, 0, 0, 0.25)',

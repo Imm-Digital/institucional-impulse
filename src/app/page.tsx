@@ -1,4 +1,5 @@
 import FirstComponent from "@/components/FirstComponent";
+import SecondComponent from "@/components/SecondComponent";
 import Header from "@/components/basics/Header";
 
 export default function Home() {
@@ -7,6 +8,7 @@ export default function Home() {
       <div className="bg-gradient-to-tl from-primary to-black shadow min-h-screen">
         <Header />
         <FirstComponent />
+        <SecondComponent />
       </div>
     </div>
   );
