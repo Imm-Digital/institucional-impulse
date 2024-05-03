@@ -1,8 +1,22 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Josefin_Sans, Poppins } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
+
+const poppins = Poppins({
+  subsets: ['latin'],
+  variable: '--font-poppins',
+  display: 'swap',
+  weight: ['700', '500', '600', '400', '800', '900'],
+});
+
+const josefin = Josefin_Sans({
+  subsets: ['latin'],
+  variable: '--font-josefin',
+  display: 'swap',
+  weight: ['500', '600', '400', '700', '300'],
+})
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -16,7 +30,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={`${inter.className}, ${poppins.className}, ${josefin.className}`}>{children}</body>
     </html>
   );
 }
