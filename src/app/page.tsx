@@ -1,5 +1,6 @@
 import FirstComponent from "@/components/FirstComponent";
 import SecondComponent from "@/components/SecondComponent";
+import ThirdComponent from "@/components/ThirdComponent";
 import Header from "@/components/basics/Header";
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
         <Header />
         <FirstComponent />
         <SecondComponent />
+        <ThirdComponent />
       </div>
     </div>
   );
