@@ -1,5 +1,4 @@
 import React from 'react'
-import Header from '../basics/Header'
 import { items, depoiments } from './data'
 
 function FirstComponent() {

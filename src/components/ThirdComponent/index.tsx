@@ -34,7 +34,7 @@ function ThirdComponent() {
                                         <p className='text-white text-xs font-normal font-montserrat'>Investimento: {value}</p>
                                         <p className='text-white text-xs font-normal font-montserrat'>Média de retorno: {returnValue}</p>
                                     </div>
-                                    <div>
+                                    <div className='py-4 flex flex-col gap-1'>
                                         <div className='font-bold text-white font-montserrat text-xs'>Dificuldade: {dificult}</div>
                                         <div className='font-bold text-white font-montserrat text-xs'>Retorno: {returnNumber}</div>
                                     </div>
