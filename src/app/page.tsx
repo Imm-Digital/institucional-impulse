@@ -21,7 +21,7 @@ export default function Home() {
         <FifthComponent />
         <AboutImpulse />
         <JobsComponent />
-        <AskedQuestions />
+        <AskedQuestions /> 
         <Footer />
       </div>
     </div>

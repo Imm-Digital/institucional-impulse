@@ -10,6 +10,7 @@ const config: Config = {
         'primary': '#412979',
         'seconday': '#FFB600',
         'bg-black': '#181818',
+        'softviolet': '#B59FE1',
         'violet': 'rgba(88, 55, 164, 0.26)'
       },
       fontFamily: {
