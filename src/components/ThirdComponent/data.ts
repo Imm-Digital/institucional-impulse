@@ -7,7 +7,7 @@ export const products = [
         returnValue: 'R$ X por serviço',
         dificult: 2,
         ranking: 4,
-        url: '',
+        url: 'digitacao',
         isHighligh: true,
         returnNumber: 3,
         top: 'Top 1 Custo-Benefício'
@@ -20,7 +20,7 @@ export const products = [
         returnValue: 'R$ X por serviço',
         dificult: 3,
         ranking: 4,
-        url: '',
+        url: 'redes-sociais',
         isHighligh: true,
         returnNumber: 4,
         top: 'Top 1 Custo-Benefício'
@@ -34,7 +34,7 @@ export const products = [
         dificult: 3,
         ranking: 4,
         url: '',
-        isHighligh: '',
+        isHighligh: 'assistente-virtual',
         returnNumber: 4,
         top: 'Top 1 Custo-Benefício'
     }

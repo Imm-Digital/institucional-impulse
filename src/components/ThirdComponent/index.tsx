@@ -1,8 +1,12 @@
+'use client'
 import React from 'react'
 import { GraphIcon } from '../icons/graphIcon'
 import { products } from './data'
+import { useRouter } from 'next/navigation'
 
 function ThirdComponent() {
+    const router = useRouter()
+
   return (
     <div className='bg-[#181818] flex flex-col lg:items-center min-h-screen px-6 py-16 lg:px-0 lg:py-0'>
         <div className='lg:w-[1268px] lg:h-[358px] rounded-[20px] shadow-inner lg:bg-oportunites lg:mt-[-140px]'>
@@ -44,7 +48,7 @@ function ThirdComponent() {
                                 <div className='flex lg:justify-between max-w-[200px] items-center gap-2'>
                                     <p className='text-green-700 text-xs font-bold font-montserrat'>Ranking geral: {ranking}</p>
                                 </div>
-                                <div className='border py-2 px-12 border-white text-white font-bold font-montserrat cursor-pointer text-center'>Saiba mais</div>
+                                <div onClick={() => router.push(`/${url}`)} className='border py-2 px-12 border-white text-white font-bold font-montserrat cursor-pointer text-center'>Saiba mais</div>
                             </div>
                         </div>
                     </div>
