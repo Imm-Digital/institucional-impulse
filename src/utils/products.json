@@ -56,7 +56,8 @@
                 "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias  que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda. ”",
                 "product": "Profissional de Digitação"
             },
-            "slug": "digitacao"
+            "slug": "digitacao",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
         },
         {
             "id": 2,
@@ -114,10 +115,11 @@
                 "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias  que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda. ”",
                 "product": "Profissional de Digitação"
             },
-            "slug": "redes-sociais"
+            "slug": "redes-sociais",
+            "url": "https://checkout.payt.com.br/abcc5329cfe5846db63ff4dee74eb906?src=site"
         },
         {
-            "id": 2,
+            "id": 3,
             "title": "Assistente virtual",
             "about": "digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras ativides que envolvem digitação.",
             "lastMonths": [
@@ -172,7 +174,67 @@
                 "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias  que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda. ”",
                 "product": "Profissional de Digitação"
             },
-            "slug": "assistente-virtual"
+            "slug": "assistente-virtual",
+            "url": "https://checkout.payt.com.br/9f9a2e9ab3dc74b58ef7c5b974807751?src=site"
+        },
+        {
+            "id": 4,
+            "title": "Profissional de pesquisas online",
+            "about": "digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras ativides que envolvem digitação.",
+            "lastMonths": [
+               {
+                "id": 1,
+                "title": "Média de vagas diárias abertas:",
+                "value": "130"
+               },
+               {
+                "id": 2,
+                "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                "value": "20"
+               },
+               {
+                "id": 3,
+                "title": "Média de retorno por serviço: ",
+                "value": "R$ 200 - R$ 1000"
+               },
+               {
+                "id": 4,
+                "title": "Média de tempo para ter o primeiro retorno: ",
+                "value": "1 semana"
+               },
+               {
+                "id": 5,
+                "title": "Tempo para realizar o treinamento: ",
+                "value": "um turno"
+               }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Profissional de digitação é  oportunidade com maior custo benefício. A quantidade de vagas abertas diariamente é enorme e os serviços realizados não são complexos de aprender. É ideal para quem necessita de ganhos rápidos sem grandes dificuldades.",
+                    "icon": "prof"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamentos curto e extremamente práticos. Por mais que os serviços sejam simples, é preciso estar apto a realiza-los. Você aprende extamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "prof"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "prof"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias  que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda. ”",
+                "product": "Profissional de Digitação"
+            },
+            "slug": "pesquisa-online",
+            "url": "https://checkout.payt.com.br/61b07251e835d37322b7460d2b88c05b??src=site"
         }
     ]
 }

@@ -37,5 +37,18 @@ export const products = [
         isHighligh: 'assistente-virtual',
         returnNumber: 4,
         top: 'Top 1 Custo-Benefício'
+    },
+    {
+        id: 4,
+        title: 'Profissional de Pesquisas Online',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio voluptatum repudiandae ipsa, quas excepturi repellendus cupiditate deserunt cum voluptates praesentium in, possimus maiores quo corrupti sequi iure, cumque modi.',
+        value: 'R$ 59,00',
+        returnValue: 'R$ 5 por hora',
+        dificult: 1,
+        ranking: 2,
+        url: '',
+        isHighligh: 'pesquisas-online',
+        returnNumber: 1,
+        top: 'Top 1 Custo-Benefício'
     }
 ]

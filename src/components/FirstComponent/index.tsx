@@ -29,7 +29,7 @@ function FirstComponent() {
                     <div key={id} className='lg:max-w-[236px] flex flex-col items-center justify-between gap-8'>
                         <p className='text-sm font-medium text-white font-inter font-montserrat'>{depoiment}</p>
                         <div className='w-full flex lg:flex-col items-center gap-4'>
-                            <img src={image} />
+                            <img src={image} className='w-[40px] h-[40px] rounded-md' />
                             <p className='text-sm text-white text-xs font-bold uppercase font-montserrat'>{name}</p>
                         </div>
                     </div>

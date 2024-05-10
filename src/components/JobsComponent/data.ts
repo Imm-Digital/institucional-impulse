@@ -1,15 +1,15 @@
 export const jobs = [
     {
         id: 1,
-        title: 'Profissional de X',
+        title: 'Profissional de digitação',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio voluptatum repudiandae ipsa, quas excepturi repellendus cupiditate deserunt cum voluptates praesentium in, possimus maiores quo corrupti sequi iure, cumque modi.',
         value: 'R$ 49,90',
-        returnValue: 'R$ 1.000,00 - R$ 1.500,00',
-        dificult: '5 estrelas',
-        ranking: '8 estrelas',
-        url: '',
-        moreValue: '+ 130%',
-        returnNumber: '7 estrelas',
+        returnValue: 'R$ X por serviço',
+        dificult: 2,
+        ranking: 4,
+        url: 'digitacao',
+        isHighligh: true,
+        returnNumber: 3,
         top: 'Top 1 Custo-Benefício'
     },
     {
@@ -20,8 +20,8 @@ export const jobs = [
         returnValue: 'R$ X por serviço',
         dificult: 3,
         ranking: 4,
-        url: '',
-        moreValue: '+ 130%',
+        url: 'redes-sociais',
+        isHighligh: true,
         returnNumber: 4,
         top: 'Top 1 Custo-Benefício'
     },
