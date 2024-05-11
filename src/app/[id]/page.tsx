@@ -4,12 +4,14 @@ import { UpGraphIcon } from "@/components/icons/UpGraphIcon";
 import { GraphIcon } from "@/components/icons/graphIcon";
 import { useEffect, useState } from "react";
 import productsData from "@/utils/products.json"; 
+import { useRouter } from "next/navigation"
 
 export default function Page({
     params,
   }: {
     params: { id: string };
   }) {
+    const router = useRouter()
     const slug = params.id
     const [product, setProduct] = useState<any>(null);
     console.log(product)
@@ -20,6 +22,10 @@ export default function Page({
             setProduct(foundProduct);
         }
     }, [slug]);
+
+   const handleRedirect = (value: string) => {
+    router.push(value)
+  }
 
     if (!product) {
         return <p>Carregando produto...</p>;
@@ -68,7 +74,7 @@ export default function Page({
                                             <p className="text-white text-xl font-semibold font-montserrat uppercase">Risco <br /> baixo</p>
                                             <p className="text-white text-[15px] font-normal font-montserrat">Retorno financeiro acima do investido após o primeiro trabalho realizado.</p>
                                         </div>
-                                        <div className="bg-sucess rounded-md px-4 py-2 text-center text-white text-[15px] font-bold font-montserrat cursor-pointer">Me tornar um <br /> {product.title}</div>
+                                        <div onClick={() => handleRedirect(product.url)} className="bg-sucess rounded-md px-4 py-2 text-center text-white text-[15px] font-bold font-montserrat cursor-pointer">Me tornar um <br /> {product.title}</div>
                                     </div>
                                 </div>
                             </div>
@@ -102,7 +108,7 @@ export default function Page({
                                 <p className="text-white text-[10px] font-normal font-montserrat uppercase"><strong className="text-white text-[10px] font-bold font-montserrat lowercase">{product.feedback.name}</strong> - membro impulse</p>
                             </div>
                             <div className="flex items-center justify-center py-8">
-                                <div className="bg-sucess shadow text-center text-white text-[15px] lg:text-[25px] font-bold font-montserrat py-4 px-6 rounded-lg cursor-pointer">Me tornar um {product.title}</div>
+                                <div  onClick={() => handleRedirect(product.url)} className="bg-sucess shadow text-center text-white text-[15px] lg:text-[25px] font-bold font-montserrat py-4 px-6 rounded-lg cursor-pointer">Me tornar um {product.title}</div>
                             </div>
                         </div>
                     </div>
@@ -117,7 +123,7 @@ export default function Page({
                             <p className="text-center lg:text-right text-white text-[15px] lg:text-2xl font-bold font-josefin uppercase lg:leading-10">Milhares Possibilidades de trabalhos encontradas no nosso Jobscanner</p>
                             <img  src='https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/2acc17a2-4d8f-49de-6739-ab809993ad00/public' className="lg:w-[761px] lg:h-[692px] max-w-full h-auto"/>    
                         </div>
-                        <div className="bg-sucess mt-12 lg:mt-0 shadow text-center text-white text-[15px] lg:text-[25px] font-bold font-montserrat py-4 px-6 rounded-lg cursor-pointer">Me tornar um {product.title}</div>
+                        <div  onClick={() => handleRedirect(product.url)} className="bg-sucess mt-12 lg:mt-0 shadow text-center text-white text-[15px] lg:text-[25px] font-bold font-montserrat py-4 px-6 rounded-lg cursor-pointer">Me tornar um {product.title}</div>
                     </div>
                 </div> 
                 <Footer />
