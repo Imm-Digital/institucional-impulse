@@ -2,9 +2,9 @@ export const jobs = [
     {
         id: 1,
         title: 'Profissional de digitação',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio voluptatum repudiandae ipsa, quas excepturi repellendus cupiditate deserunt cum voluptates praesentium in, possimus maiores quo corrupti sequi iure, cumque modi.',
+        description: ' O que você poderá fazer: digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras ativides que envolvem digitação.',
         value: 'R$ 49,90',
-        returnValue: 'R$ X por serviço',
+        returnValue: 'R$ 200 por serviço',
         dificult: 2,
         ranking: 4,
         url: 'digitacao',
@@ -15,9 +15,9 @@ export const jobs = [
     {
         id: 2,
         title: 'Profissional de Redes Sociais',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio voluptatum repudiandae ipsa, quas excepturi repellendus cupiditate deserunt cum voluptates praesentium in, possimus maiores quo corrupti sequi iure, cumque modi.',
+        description: ' O que você poderá fazer: Criar post para redes sociais, entre outras artes gráficas como banners, panfleto, cardápios, logos e apresentações.',
         value: 'R$ 49,90',
-        returnValue: 'R$ X por serviço',
+        returnValue: 'R$ 350 por serviço',
         dificult: 3,
         ranking: 4,
         url: 'redes-sociais',

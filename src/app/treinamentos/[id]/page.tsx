@@ -14,7 +14,6 @@ export default function Page({
     const router = useRouter()
     const slug = params.id
     const [product, setProduct] = useState<any>(null);
-    console.log(product)
 
     useEffect(() => {
         if (slug) {

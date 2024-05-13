@@ -75,7 +75,7 @@ function ThirdComponent() {
                                     </div>
                                     </p>
                                 </div>
-                                <div onClick={() => router.push(`/${url}`)} className='border py-2 px-12 border-white text-white font-bold font-montserrat cursor-pointer text-center'>Saiba mais</div>
+                                <div onClick={() => router.push(`/treinamentos/${url}`)} className='border py-2 px-12 border-white text-white font-bold font-montserrat cursor-pointer text-center'>Saiba mais</div>
                             </div>
                         </div>
                     </div>

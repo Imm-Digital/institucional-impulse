@@ -3,27 +3,27 @@
         {
             "id": 1,
             "title": "Profissional de Digitação",
-            "about": "digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras ativides que envolvem digitação.",
+            "about": "O que você poderá fazer: digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras ativides que envolvem",
             "lastMonths": [
                {
                 "id": 1,
                 "title": "Média de vagas diárias abertas:",
-                "value": "130"
+                "value": "170"
                },
                {
                 "id": 2,
                 "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
-                "value": "20"
+                "value": "10"
                },
                {
                 "id": 3,
                 "title": "Média de retorno por serviço: ",
-                "value": "R$ 200 - R$ 1000"
+                "value": "R$ 200"
                },
                {
                 "id": 4,
                 "title": "Média de tempo para ter o primeiro retorno: ",
-                "value": "1 semana"
+                "value": "14 dias"
                },
                {
                 "id": 5,
@@ -62,27 +62,27 @@
         {
             "id": 2,
             "title": "Profissional de Redes sociais",
-            "about": "digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras ativides que envolvem digitação.",
+            "about": "O que você poderá fazer: Criar post para redes sociais, entre outras artes gráficas como banners, panfleto, cardápios, logos e apresentações.",
             "lastMonths": [
                {
                 "id": 1,
                 "title": "Média de vagas diárias abertas:",
-                "value": "130"
+                "value": "250"
                },
                {
                 "id": 2,
                 "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
-                "value": "20"
+                "value": "13"
                },
                {
                 "id": 3,
                 "title": "Média de retorno por serviço: ",
-                "value": "R$ 200 - R$ 1000"
+                "value": "R$ 350"
                },
                {
                 "id": 4,
                 "title": "Média de tempo para ter o primeiro retorno: ",
-                "value": "1 semana"
+                "value": "14 dias"
                },
                {
                 "id": 5,
@@ -94,7 +94,7 @@
                 {
                     "id": 1,
                     "title": "Escolha da profissão ",
-                    "text": "Profissional de digitação é  oportunidade com maior custo benefício. A quantidade de vagas abertas diariamente é enorme e os serviços realizados não são complexos de aprender. É ideal para quem necessita de ganhos rápidos sem grandes dificuldades.",
+                    "text": "profissional de redes social é a profissão com um grau de dificuldade um pouco mais alto para aprender, mas a oportunidade com o melhor retorno financeiro e o maior número de vagas de serviços disponíveis. Ideal para quem está disposto a botar um pouco mais de empenho e necessita de retornos mais altos.",
                     "icon": "prof"
                 },
                 {
@@ -121,27 +121,27 @@
         {
             "id": 3,
             "title": "Assistente virtual",
-            "about": "digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras ativides que envolvem digitação.",
+            "about": "O que precisa fazer: trabalhos adiministrativo, organização de planilhas, documentações, gerenciamento de email e organização de agenda.",
             "lastMonths": [
                {
                 "id": 1,
                 "title": "Média de vagas diárias abertas:",
-                "value": "130"
+                "value": "90"
                },
                {
                 "id": 2,
                 "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
-                "value": "20"
+                "value": "9"
                },
                {
                 "id": 3,
                 "title": "Média de retorno por serviço: ",
-                "value": "R$ 200 - R$ 1000"
+                "value": "R$ 200"
                },
                {
                 "id": 4,
                 "title": "Média de tempo para ter o primeiro retorno: ",
-                "value": "1 semana"
+                "value": "14 dias"
                },
                {
                 "id": 5,
@@ -153,20 +153,20 @@
                 {
                     "id": 1,
                     "title": "Escolha da profissão ",
-                    "text": "Profissional de digitação é  oportunidade com maior custo benefício. A quantidade de vagas abertas diariamente é enorme e os serviços realizados não são complexos de aprender. É ideal para quem necessita de ganhos rápidos sem grandes dificuldades.",
-                    "icon": "prof"
+                    "text": "Assistente virtual é a profissão que absolutamente qualquer pessoa consgue aprender do zero e se dar muito bem nela. Consiste em básicamente organizar e administrar certas informações para as pessoas através da internet e todas as ferrametas necssárias para as tarefas são simples, intuitivas e você aprende todas elas aqui na Impulse.",
+                    "icon": "grafico"
                 },
                 {
                     "id": 2,
                     "title": "Treinamento",
                     "text": "Faça um treinamentos curto e extremamente práticos. Por mais que os serviços sejam simples, é preciso estar apto a realiza-los. Você aprende extamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
-                    "icon": "prof"
+                    "icon": ""
                 },
                 {
                     "id": 3,
                     "title": "Jobscanner",
                     "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
-                    "icon": "prof"
+                    "icon": ""
                 }
             ],
             "feedback": {
@@ -180,27 +180,22 @@
         {
             "id": 4,
             "title": "Profissional de pesquisas online",
-            "about": "digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras ativides que envolvem digitação.",
+            "about": " O que precisa fazer: responder pesquisas, avaliar produtos e serviços.",
             "lastMonths": [
                {
                 "id": 1,
                 "title": "Média de vagas diárias abertas:",
-                "value": "130"
-               },
-               {
-                "id": 2,
-                "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
-                "value": "20"
+                "value": "5"
                },
                {
                 "id": 3,
                 "title": "Média de retorno por serviço: ",
-                "value": "R$ 200 - R$ 1000"
+                "value": "R$ 5"
                },
                {
                 "id": 4,
                 "title": "Média de tempo para ter o primeiro retorno: ",
-                "value": "1 semana"
+                "value": "1 dia"
                },
                {
                 "id": 5,
@@ -212,7 +207,7 @@
                 {
                     "id": 1,
                     "title": "Escolha da profissão ",
-                    "text": "Profissional de digitação é  oportunidade com maior custo benefício. A quantidade de vagas abertas diariamente é enorme e os serviços realizados não são complexos de aprender. É ideal para quem necessita de ganhos rápidos sem grandes dificuldades.",
+                    "text": "Profissional de Pesquisas Online é o ganho certo e rápido. As pesquisas aparecem todos os pelas plantaformas e você pode começar a ganhar dinheiro assim que terminar o treinamento.",
                     "icon": "prof"
                 },
                 {
