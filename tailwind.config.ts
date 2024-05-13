@@ -34,7 +34,8 @@ const config: Config = {
         'number-3': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/2b24d001-b14f-4954-29d6-9511f59e0d00/public')",
         'jobscanner': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public')",
         'grafico': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public')",
-        'work': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public')"
+        'work': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public')",
+        'training': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/aa6c99a3-fd24-4bc5-9776-b3f2e908db00/public')"
       }
     },
   },
