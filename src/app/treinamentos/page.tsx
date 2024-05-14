@@ -1,3 +1,4 @@
+'use client'
 import AboutImpulse from "@/components/AboutImpulse";
 import AskedQuestions from "@/components/AskedQuestions";
 import FifthComponent from "@/components/FifthComponent";
@@ -8,15 +9,29 @@ import JobsComponent from "@/components/JobsComponent";
 import SecondComponent from "@/components/SecondComponent";
 import ThirdComponent from "@/components/ThirdComponent";
 import Header from "@/components/basics/Header";
+import { useRef } from "react";
 
 export default function Training() {
+  const ref = useRef<HTMLDivElement>(null);
+
+  const handleScroll = () => {
+      if (ref.current) {
+          ref.current.scrollIntoView({ 
+              behavior: 'smooth',
+              block: 'start'
+          });
+      }
+  };
+
   return (
     <div className="w-full">
       <div className="bg-gradient-to-tl from-primary to-black shadow min-h-screen">
-        <Header />
+        <Header {...{handleScroll}}/>
         <FirstComponent />
         <SecondComponent />
-        <ThirdComponent />
+        <div ref={ref}>
+          <ThirdComponent />
+        </div>
         <FourthComponent />
         {/* <FifthComponent /> */}
         <AboutImpulse />
