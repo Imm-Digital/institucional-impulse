@@ -7,7 +7,7 @@ import Footer from "@/components/basics/Footer";
 import FourthComponent from "@/components/FourthComponent";
 import JobsComponent from "@/components/JobsComponent";
 import SecondComponent from "@/components/SecondComponent";
-import ThirdComponent from "@/components/ThirdComponent";
+import OpportunitiesComponent from "@/components/OpportunitiesComponent";
 import Header from "@/components/basics/Header";
 import { useRef } from "react";
 
@@ -30,13 +30,13 @@ export default function Training() {
         <FirstComponent />
         <SecondComponent />
         <div ref={ref}>
-          <ThirdComponent />
+          <OpportunitiesComponent />
         </div>
         <FourthComponent />
         {/* <FifthComponent /> */}
         <AboutImpulse />
         <JobsComponent />
-        {/* <AskedQuestions />  */}
+        <AskedQuestions />  
         <Footer />
       </div>
     </div>

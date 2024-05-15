@@ -4,7 +4,7 @@ import { GraphIcon } from '../icons/graphIcon'
 import { products } from './data'
 import { useRouter } from 'next/navigation'
 
-function ThirdComponent() {
+function OpportunitiesComponent() {
     const router = useRouter()
     const maxStars = 5;
     const maxDifficulty = 3;
@@ -19,7 +19,7 @@ function ThirdComponent() {
 
   return (
     <div className='bg-[#181818] flex flex-col lg:items-center min-h-screen px-0 py-0'>
-        <div className='lg:w-[1268px] lg:h-[358px] py-6 px-6 lg:py-0 lg:px-0 shadow-inner bg-oportunites bg-cover lg:mt-[-140px] bg-no-repeat'>
+        <div className='lg:w-[1268px] lg:h-[358px] py-6 px-6 lg:py-0 lg:px-0 shadow-inner bg-oportunites bg-cover lg:mt-[-140px] bg-no-repeat rounded-[20px]'>
             <div className='w-full lg:px-[162px] lg:pt-[104px] flex flex-col gap-4'>
                 <p className='text-white text-base lg:text-3xl font-bold font-montserrat lowercase'>as melhores</p>
                 <p className='text-white text-2xl lg:text-3xl font-bold font-montserrat uppercase tracking-[6px]'>Oportunidades <br/> de renda</p>
@@ -75,13 +75,13 @@ function ThirdComponent() {
                             </div>
                             <div className='flex flex-col lg:flex-row justify-between gap-4 lg:gap-0'>
                                 <div className='flex lg:justify-between max-w-[200px] items-center gap-2'>
-                                    <p className='flex gap-2 items-center text-green-700 text-xs font-bold font-montserrat'>Ranking: 
+                                    <div className='flex gap-2 items-center text-green-700 text-xs font-bold font-montserrat'>Ranking: 
                                     <div>
                                                 {Array.from({ length: maxStars }, (_, i) => (
                                                     <span key={i} className={`text-lg ${i < returnNumber ? 'text-white' : 'text-gray-500'}`}>★</span>
                                                 ))}
                                     </div>
-                                    </p>
+                                    </div>
                                 </div>
                                 <div onClick={() => router.push(`/treinamentos/${url}`)} className='border py-2 px-12 border-white text-white font-bold font-montserrat cursor-pointer text-center'>Saiba mais</div>
                             </div>
@@ -94,4 +94,4 @@ function ThirdComponent() {
   )
 }
 
-export default ThirdComponent
+export default OpportunitiesComponent

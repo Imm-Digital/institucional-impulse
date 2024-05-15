@@ -5,7 +5,7 @@ import { aboutImpulse } from './data'
 
 function WhyImpulse() {
   return (
-    <div className="bg-white w-full flex flex-col items-center py-16">
+    <div className="bg-white w-full flex flex-col items-center py-16 pb-72">
       <h1 className="text-3xl font-bold text-center mb-[72px]">Para quem é a Impulse?</h1>
       <div className="flex justify-center w-full max-w-6xl px-4 gap-20">
         <div className="w-1/2 flex flex-col items-center px-4 justify-center">
@@ -34,12 +34,12 @@ function WhyImpulse() {
           </div>
         </div>
       </div>
-      <div className="flex flex-wrap justify-center w-full mt-12">
+      <div className="flex flex-wrap justify-center gap-[72px] w-full mt-24">
         {
             aboutImpulse.map(({id, text, icon: Icon}) => (
-                <div key={id} className="flex flex-col items-center m-4">
+                <div key={id} className="flex flex-col justify-between items-center gap-8 m-4">
                     <Icon />
-                    <p className="max-w-[160px] text-center uppercase"><strong>{text}</strong></p>
+                    <p className="min-h-[48px] max-w-[160px] text-center uppercase flex items-center"><strong>{text}</strong></p>
                 </div>
             ))
         }

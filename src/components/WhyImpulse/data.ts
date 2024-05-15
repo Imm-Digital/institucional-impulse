@@ -1,6 +1,7 @@
 import { EarthIcon } from "../icons/EarthIcon";
 import { MindIcon } from "../icons/MindIcon";
 import { PeapleIcon } from "../icons/PeapleIcon";
+import { TranslateIcon } from "../icons/TranslateIcon";
 
 export const aboutImpulse = [
     {
@@ -21,6 +22,6 @@ export const aboutImpulse = [
     {
         id: 4,
         text: '5 idiomas diferentes',
-        icon: EarthIcon,
+        icon: TranslateIcon,
     },
 ]
