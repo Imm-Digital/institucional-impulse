@@ -18,12 +18,12 @@ function Accordion({key, title, content}: AccordionType) {
             className="flex justify-between items-center p-6 cursor-pointer"  
             onClick={() => setIsOpen(prevState => !prevState)}
         >
-            <p className='text-xl font-bold text-black font-poppins'>{title}</p>
+            <p className='text-base lg:text-xl font-bold text-black font-poppins'>{title}</p>
             <div>{isOpen ? <ArrowUp /> : <ArrowDown />}</div>
         </div>
         {
             isOpen && (
-                <div className='p-6 text-lg font-normal text-black font-poppins'>{content}</div>
+                <div className='p-6 text-sm lg:text-lg font-normal text-black font-poppins'>{content}</div>
             )
         }
     </div>

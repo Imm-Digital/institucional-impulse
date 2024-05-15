@@ -4,7 +4,7 @@ import { depoiments } from './data'
 function FeedbackComponent() {
   return (
     <div className='w-full flex items-center justify-center bg-white'>
-        <div className='flex flex-col lg:flex-row w-full lg:max-w-[912px] py-24 gap-20'>
+        <div className='flex flex-col px-9 lg:px-0 lg:flex-row w-full lg:max-w-[912px] py-24 gap-20'>
             {
                 depoiments.map(({depoiment, name, product, id, image}) => (
                     <div key={id} className='lg:max-w-[236px] flex flex-col items-center justify-between gap-8'>

@@ -19,7 +19,7 @@ function OpportunitiesComponent() {
 
   return (
     <div className='bg-[#181818] flex flex-col lg:items-center min-h-screen px-0 py-0'>
-        <div className='lg:w-[1268px] lg:h-[358px] py-6 px-6 lg:py-0 lg:px-0 shadow-inner bg-oportunites bg-cover lg:mt-[-140px] bg-no-repeat rounded-[20px]'>
+        <div className='lg:w-[1268px] lg:h-[358px] py-6 px-6 lg:py-0 lg:px-0 shadow-inner bg-oportunites bg-cover lg:mt-[-140px] bg-no-repeat lg:rounded-[20px]'>
             <div className='w-full lg:px-[162px] lg:pt-[104px] flex flex-col gap-4'>
                 <p className='text-white text-base lg:text-3xl font-bold font-montserrat lowercase'>as melhores</p>
                 <p className='text-white text-2xl lg:text-3xl font-bold font-montserrat uppercase tracking-[6px]'>Oportunidades <br/> de renda</p>

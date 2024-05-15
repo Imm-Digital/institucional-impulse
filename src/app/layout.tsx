@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Josefin_Sans, Montserrat, Poppins } from "next/font/google";
 import "./globals.css";
+import { ResizeScreenContextProvider } from "@/context/resizeScreen";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -40,7 +41,11 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/favicon.png" type="image/png" sizes="32x32" />
       </head>
-      <body className={`${inter.className}, ${poppins.className}, ${josefin.className}, ${montserrat.className}`}>{children}</body>
+      <body className={`${inter.className}, ${poppins.className}, ${josefin.className}, ${montserrat.className}`}>
+        <ResizeScreenContextProvider>
+          {children}
+        </ResizeScreenContextProvider>
+      </body>
     </html>
   );
 }

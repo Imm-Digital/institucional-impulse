@@ -26,18 +26,18 @@ export default function Home() {
 
   return (
     <div className="w-full bg-gradient-to-tl from-primary to-black shadow min-h-screen">
-      <Header isHomePage {...{handleScroll}}/>
+      <Header isHomePage {...{handleScroll}}/> 
       <HomeComponent />
       <FourthComponent />
       <WhyImpulse />
       <div ref={ref}>
-          <OpportunitiesComponent />
+            <OpportunitiesComponent />
       </div>
       <FeedbackComponent />
       <WhatIsImpulse />
       <JobsComponent />
       <AskedQuestions />
-      <Footer />
+      <Footer /> 
     </div>
   );
 }
