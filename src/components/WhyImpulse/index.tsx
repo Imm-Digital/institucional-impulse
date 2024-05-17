@@ -15,7 +15,7 @@ function WhyImpulse() {
             </div>
             <p className="lg:text-end text-[15px] font-normal font-montserrat">
               A Impulse é para quem quer uma formação prática.<br/><br/>
-              À impulse é para aqueles que, através da internet, procuram aumentar ou complementar sua renda atual e necessitam de um treinamento prático com resultados reais.<br/><br/>
+              A Impulse é para aqueles que, através da internet, procuram aumentar ou complementar sua renda atual e necessitam de um treinamento prático com resultados reais.<br/><br/>
               É para qualquer pessoa independente do nível de instrução, conhecimento, idade ou familiaridade com tecnologias.
             </p>
           </div>
@@ -24,9 +24,9 @@ function WhyImpulse() {
         <div className="lg:w-1/2 flex flex-col items-center lg:px-4 justify-center">
           <div className="w-full flex flex-col-reverse lg:flex-row gap-16 lg:items-center mb-4">
             <p className="text-start text-[15px] font-normal font-montserrat">
-              A impulse não é para quem deseja ficar milionário da noite para o dia ou para quem busca resultados financeiros sem nenhum esforço ou empenho.<br/><br/>
+              A Impulse não é para quem busca resultados financeiros sem esforço ou empenho.<br/><br/>
               Também não é para quem acredita ser necessária uma formação de anos para ter desempenho, ou para os que buscam oportunidades desonestas de adquirir renda e não possuem responsabilidade.<br/><br/>
-              Ainda, não é para quem quer fazer cursos atrás de curso sem botar nada em prática e não atingir resultados financeiros concretos.
+              Ainda, não é para quem quer fazer cursos sem colocar nada em prática esperando atingir resultados financeiros concretos.
             </p>
             <div className='w-[55px] h-[69px]'>
                 <DenyIcon />

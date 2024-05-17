@@ -18,8 +18,6 @@ function Header({isHomePage, handleScroll}: HeaderType) {
           isHomePage ? (
                 isMobile ? ( <div><MobileMenu /></div> ) : (
                   <div className='flex gap-20 items-center'>
-                  <div className='text-white text-base font-normal font-poppins cursor-pointer'>Profissões</div>
-                  <div className='text-white text-base font-normal font-poppins cursor-pointer'>Conteúdo</div>
                   <div className='flex gap-6'>
                     <div className="cursor-pointer px-4 lg:px-6 py-4 bg-vivid-purple rounded-[10px] justify-center items-center inline-flex">
                         <div className="text-center text-white text-base font-normal font-poppins">Login Aluno</div>

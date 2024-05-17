@@ -25,13 +25,13 @@ export default function Home() {
   };
 
   return (
-    <div className="w-full bg-gradient-to-tl from-primary to-black shadow min-h-screen">
+    <div className="w-full bg-gradient-to-tl from-[#412979] to-[#0A0020] shadow min-h-screen">
       <Header isHomePage {...{handleScroll}}/> 
       <HomeComponent />
       <FourthComponent />
       <WhyImpulse />
       <div ref={ref}>
-            <OpportunitiesComponent />
+        <OpportunitiesComponent />
       </div>
       <FeedbackComponent />
       <WhatIsImpulse />

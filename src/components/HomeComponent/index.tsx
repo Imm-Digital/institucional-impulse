@@ -23,7 +23,7 @@ function HomeComponent() {
                     </div>
                 </div>
             </div>
-            <div className='overflow-scroll w-full flex gap-9 lg:gap-20 px-9 lg:px-0 lg:pt-32 lg:pl-[10%] 2xl:pl-[20%]'>
+            <div className='overflow-scroll lg:overflow-auto w-full flex gap-9 lg:gap-20 px-9 lg:px-0 lg:pl-[10%] 2xl:pl-[20%]'>
                 {
                     homeDepoiments.map(({ id, name, depoiment }) => (
                         <div key={id} className='flex flex-col justify-end px-5 w-full lg:w-[287px] h-[410px] bg-white py-9'>

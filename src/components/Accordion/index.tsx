@@ -23,7 +23,7 @@ function Accordion({key, title, content}: AccordionType) {
         </div>
         {
             isOpen && (
-                <div className='p-6 text-sm lg:text-lg font-normal text-black font-poppins'>{content}</div>
+                <div dangerouslySetInnerHTML={{ __html: content }} className='p-6 text-sm lg:text-base font-normal text-black font-poppins' />
             )
         }
     </div>

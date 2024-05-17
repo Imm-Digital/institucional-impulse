@@ -6,7 +6,7 @@ function FirstComponent() {
     <div className="w-full py-12 pb-20 lg:py-2 px-6 lg:px-0 flex flex-col items-center">
         <div className='flex flex-col lg:items-center'>
             <h1 className='text-base lg:text-3xl max-w-3xl font-josefin font-bold uppercase text-gray-200 lg:text-center'>O único lugar que te mostra a verdadeira renda extra através da internet</h1>
-            <h2 className='lg:text-center text-yellow-500 text-xs lg:text-xl font-bold font-poppins mt-5'>Todas as profissões e serviços online rankiados para você escolher.</h2>
+            <h2 className='lg:text-center text-yellow-500 text-xs lg:text-xl font-bold font-poppins mt-5'>Todas as profissões e serviços online rankeados para você escolher.</h2>
             <img src={'https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/eeb894cd-eced-44af-2178-3bd378a0a500/public'} className='w-[244px] h-[40px] mt-5' />
         </div>
         <div className='flex flex-col items-center gap-4 py-16'>
@@ -26,8 +26,8 @@ function FirstComponent() {
         <div className='flex flex-col lg:flex-row w-full lg:max-w-[912px] py-24 gap-20'>
             {
                 depoiments.map(({depoiment, name, product, id, image}) => (
-                    <div key={id} className='lg:max-w-[236px] flex flex-col items-center justify-between gap-8'>
-                        <p className='text-sm font-medium text-white font-inter font-montserrat'>{depoiment}</p>
+                    <div key={id} className='lg:max-w-[236px] flex flex-col items-center gap-8'>
+                        <p className='text-sm font-medium text-center text-white font-inter font-montserrat'>{depoiment}</p>
                         <div className='w-full flex lg:flex-col items-center gap-4'>
                             <img src={image} className='w-[40px] h-[40px] rounded-md' />
                             <p className='text-sm text-white text-xs font-bold uppercase font-montserrat'>{name}</p>

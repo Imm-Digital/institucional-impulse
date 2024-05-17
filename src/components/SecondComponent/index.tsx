@@ -14,12 +14,12 @@ function SecondComponent() {
                     <h2 className='text-black text-xl lg:text-4xl font-bold font-josefin uppercase'>Você decide <small className='text-indigo-900 text-xl lg:text-4xl font-bold uppercase'>quanto</small> ganhar</h2>
                 </div>
                 <p className='text-black font-normal font-poppins text-base lg:text-base max-w-[590px]'>
-                    <strong>Mais de 94% dos brasileiros gostariam de uma renda extra,</strong> mas ou não sabem onde procurar ou não conseguem ser aceitos em nenhum trabalho.
+                    <strong>Mais de 94% dos brasileiros gostariam de uma renda extra,</strong> mas não sabem onde procurar ou não conseguem ser aceitos em nenhum trabalho.
                 </p>
             </div>
         </div>
         <div className='lg:w-[966px] pt-11 text-center text-indigo-900 text-xs lg:text-2xl font-bold font-poppins'>
-            <p>E se a gente te mostrasse extamente como vai conseguir essa renda extra e que existem oportunidades infinitas?</p>
+            <p>E se a gente te mostrasse exatamente como vai conseguir essa renda extra e que existem oportunidades infinitas?</p>
         </div>
         <div className='flex flex-col lg:flex-row max-w-[1156px] mt-6 lg:mt-[93px] justify-between gap-52 lg:gap-16'>
             {

@@ -28,14 +28,14 @@ export const products = [
     {
         id: 3,
         title: 'Assistente Virtual',
-        description: 'O que precisa fazer: trabalhos adiministrativo, organização de planilhas, documentações, gerenciamento de email e organização de agenda.',
+        description: 'O que precisa fazer: trabalhos administrativos, organização de planilhas, documentações, gerenciamento de email e organização de agenda.',
         value: 'R$ 49,90',
         returnValue: 'R$ 200 por serviço',
         dificult: 3,
-        ranking: 4,
+        ranking: 3,
         url: 'assistente-virtual',
         isHighligh: true,
-        returnNumber: 4,
+        returnNumber: 3,
         top: 'Top 1 Custo-Benefício'
     },
     {

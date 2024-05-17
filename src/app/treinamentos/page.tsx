@@ -15,17 +15,18 @@ export default function Training() {
   const ref = useRef<HTMLDivElement>(null);
 
   const handleScroll = () => {
-      if (ref.current) {
-          ref.current.scrollIntoView({ 
-              behavior: 'smooth',
-              block: 'start'
-          });
-      }
+    if (ref.current) {
+      const offsetTop = ref.current.getBoundingClientRect().top + window.scrollY - 100;
+      window.scrollTo({
+        top: offsetTop,
+        behavior: 'smooth'
+      });
+    }
   };
 
   return (
     <div className="w-full">
-      <div className="bg-gradient-to-tl from-primary to-black shadow min-h-screen">
+      <div className="bg-gradient-to-tl from-[#412979] to-[#0A0020] shadow min-h-screen">
         <Header {...{handleScroll}}/>
         <FirstComponent />
         <SecondComponent />

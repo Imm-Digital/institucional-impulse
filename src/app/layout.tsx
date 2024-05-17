@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Josefin_Sans, Montserrat, Poppins } from "next/font/google";
 import "./globals.css";
 import { ResizeScreenContextProvider } from "@/context/resizeScreen";
+import GoogleTagManager from "@/components/GoogleTagManager";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -27,8 +28,8 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "Grupo Impulse",
-  description: "Site institucional Grupo Impulse",
+  title: "Grupo Impulse - Conquiste sua renda através da internet!",
+  description: "A Impulse é uma plataforma de treinamento de profissões digitais para renda extra! Capacitamos pessoas para conseguirem retorno financeiro com a internet.",
 };
 
 export default function RootLayout({
@@ -39,9 +40,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/favicon.png" type="image/png" sizes="32x32" />
+        <link rel="icon" href="/favicon.ico"/>
       </head>
       <body className={`${inter.className}, ${poppins.className}, ${josefin.className}, ${montserrat.className}`}>
+        <GoogleTagManager gtmId={'GTM-WCVRKTHV'} />
         <ResizeScreenContextProvider>
           {children}
         </ResizeScreenContextProvider>

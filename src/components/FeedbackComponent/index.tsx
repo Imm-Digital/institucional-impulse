@@ -7,11 +7,11 @@ function FeedbackComponent() {
         <div className='flex flex-col px-9 lg:px-0 lg:flex-row w-full lg:max-w-[912px] py-24 gap-20'>
             {
                 depoiments.map(({depoiment, name, product, id, image}) => (
-                    <div key={id} className='lg:max-w-[236px] flex flex-col items-center justify-between gap-8'>
-                        <p className='text-sm font-medium text-black font-inter font-montserrat text-shadow-lg'>{depoiment}</p>
+                    <div key={id} className='lg:max-w-[236px] flex flex-col items-center gap-8'>
+                        <p className='text-sm font-medium text-black font-inter font-montserrat text-shadow-feedback text-center'>{depoiment}</p>
                         <div className='w-full flex lg:flex-col items-center gap-4'>
-                            <img src={image} className='w-[40px] h-[40px] rounded-md' />
-                            <p className='text-sm text-black text-xs font-bold uppercase font-montserrat'>{name}</p>
+                            <p className='text-black text-xs font-bold uppercase font-montserrat tracking-widest'>{name}</p>
+                            <img src={image} className='w-[30px] h-[30px] rounded-md' />
                         </div>
                     </div>
                 ))

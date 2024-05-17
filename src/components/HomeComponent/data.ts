@@ -26,10 +26,10 @@ export const theWay = [
     },
     {
         id: 2,
-        text: 'Os treinamentos para retornos financeiros a curto prazo, te mostramos exatamente o que precisa fazer de forma prática para realizar os serviços online.'
+        text: 'Os treinamentos possuem retornos financeiros a curto prazo! Saiba  exatamente o que precisa fazer de forma prática para realizar os serviços online.'
     },
     {
         id: 3,
-        text: 'A sua fonte de informações atualizada e confiável. Te mostramos todos os lados da moeda de cada uma das profissões, quantas vagas diárias, qual o nível de empenho necessário e qual o retorno.'
+        text: 'A sua fonte de informações atualizada e confiável. Saiba tudo sobre cada uma das profissões, quantas vagas diárias estão disponíveis, qual o nível de empenho necessário e qual o retorno.'
     }
 ]

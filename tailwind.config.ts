@@ -15,7 +15,8 @@ const config: Config = {
         'violet': 'rgba(88, 55, 164, 0.26)',
         'dark-blue': '#0a0020',
         'vivid-purple': '#412979',
-        'sucess': '#009718'
+        'sucess': '#009718',
+        'box-gradient': "from-[#0A0020] to-[#412879]"
       },
       fontFamily: {
         poppins: ["poppins", "sans-serif"],
@@ -24,6 +25,9 @@ const config: Config = {
       },
       boxShadow: {
         'first-component-shadow': '-5px 5px 10px 4px rgba(0, 0, 0, 0.25)',
+        'inner-custom': 'inset 7px 7px 10px 10px rgba(0, 0, 0, 0.25)',
+        'custom-drop': '-5px 5px 10px 4px rgba(0, 0, 0, 0.25)',
+        'custom-green': '0 0 20px 0 rgba(58, 209, 83, 1)',
       },
       backgroundImage: {
         'oportunites': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/3b36feb7-049e-4310-de71-88bbe0a15c00/public')",
@@ -36,13 +40,12 @@ const config: Config = {
         'jobscanner': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public')",
         'grafico': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public')",
         'work': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public')",
-        'training': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/aa6c99a3-fd24-4bc5-9776-b3f2e908db00/public')"
+        'training': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/aa6c99a3-fd24-4bc5-9776-b3f2e908db00/public')",
+        'custom-gradient': 'linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%)',
       }
     },
     textShadow: {
-      sm: '0 1px 2px var(--tw-shadow-color)',
-      DEFAULT: '0 2px 4px var(--tw-shadow-color)',
-      lg: '0 8px 16px var(--tw-shadow-color)',
+      'feedback': '7px 7px 10px rgba(0, 0, 0, 0.25)'
     },
   },
   plugins: [

@@ -59,7 +59,7 @@ export default function Page({
         return <p>Carregando produto...</p>;
     } else {
         return (
-            <div>
+            <div className="bg-gradient-to-tl from-[#412979] to-[#0A0020] shadow ">
                 <div className='lg:w-full lg:h-[374px] bg-oportunites shadow-inner bg-no-repeat bg-cover flex flex-col items-center justify-end pt-6 px-6 gap-16 lg:py-0 lg:px-0'>
                     <div className='w-full max-w-[930px] flex flex-col gap-4'>
                         <p className='text-white text-base lg:text-3xl font-bold font-montserrat lowercase leading-[50px]'>as melhores</p>
@@ -114,10 +114,10 @@ export default function Page({
                                     <img src="https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/0200eb48-0020-4089-41e0-58dd7ceef500/public"/>
                                 </div>
                                 <div className="flex flex-col gap-4">
-                                    <p className="text-white text-[15px] font-bold font-josefin uppercase leading-[30px]">escolha a profissão, aprenda, aplique, tenha renda extra sempre que quiser</p>
+                                    <p className="text-white text-[15px] font-bold font-josefin uppercase leading-[30px]">escolha a profissão, aprenda, aplique e tenha renda extra sempre que quiser!</p>
                                     <p className="text-[#B59FE1] text-[15px] font-bold font-montserrat">As três etapas para você começar a ter retornos financeiros:</p>
                                 </div>
-                                <div className="py-12 flex flex-col gap-6">
+                                <div className="py-12 flex flex-col gap-10">
                                 {
                                         product?.steps.map(({id, title, text, icon}: any) => (
                                             <div key={id} className="flex flex-col lg:flex-row gap-6">
@@ -134,13 +134,13 @@ export default function Page({
 
                                 </div>
                             </div>
-                            <div className="bg-gradient-to-b from-[#412879] to-[#784ADF] py-8 px-8 lg:px-16 rounded-lg flex flex-col gap-4">
+                            <div className="bg-gradient-to-b from-[#412879] to-[#784ADF] shadow py-8 px-8 lg:px-16 rounded-lg flex flex-col gap-4">
                                 <p className="text-white text-xs font-normal font-montserrat">{product.feedback.text}</p>
                                 <p className="text-white text-[10px] font-normal font-montserrat uppercase"><strong className="text-white text-[10px] font-bold font-montserrat uppercase">{product.feedback.name}</strong> - membro impulse</p>
                                 <img src={product.feedback.image} className="w-[40px] h-[40px]" />
                             </div>
                             <div className="flex items-center justify-center py-8">
-                                <div  onClick={() => handleRedirect(product.url)} className="bg-sucess shadow text-center text-white text-[15px] lg:text-[25px] font-bold font-montserrat py-4 px-6 rounded-lg cursor-pointer">Me tornar um {product.title}</div>
+                                <div  onClick={() => handleRedirect(product.url)} className="bg-sucess shadow-custom-green text-center text-white text-[15px] lg:text-[25px] font-bold font-montserrat py-6 px-12 rounded-lg cursor-pointer">Me tornar um {product.title}</div>
                             </div>
                     <div className="flex flex-col items-center max-w-[1200px] py-20">
                         <div className="flex flex-col-reverse lg:flex-col items-center justify-center md:justify-start text-center md:text-left lg:pt-8">
@@ -153,7 +153,7 @@ export default function Page({
                             <p className="text-center lg:text-right text-white text-[15px] lg:text-2xl font-bold font-josefin uppercase lg:leading-10">Milhares Possibilidades de trabalhos encontradas no nosso Jobscanner</p>
                             <img  src='https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/2acc17a2-4d8f-49de-6739-ab809993ad00/public' className="lg:w-[761px] lg:h-[692px] max-w-full h-auto"/>    
                         </div>
-                        <div  onClick={() => handleRedirect(product.url)} className="bg-sucess mt-12 lg:mt-0 shadow text-center text-white text-[15px] lg:text-[25px] font-bold font-montserrat py-4 px-6 rounded-lg cursor-pointer">Me tornar um {product.title}</div>
+                        <div  onClick={() => handleRedirect(product.url)} className="bg-sucess mt-12 lg:mt-0 shadow-custom-green text-center text-white text-[15px] lg:text-[25px] font-bold font-montserrat py-6 px-12 rounded-lg cursor-pointer">Me tornar um {product.title}</div>
                     </div>
                 </div>
                 </div>
