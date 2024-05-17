@@ -28,6 +28,8 @@ const config: Config = {
         'inner-custom': 'inset 7px 7px 10px 10px rgba(0, 0, 0, 0.25)',
         'custom-drop': '-5px 5px 10px 4px rgba(0, 0, 0, 0.25)',
         'custom-green': '0 0 20px 0 rgba(58, 209, 83, 1)',
+        'custom-metodology': '7px 7px 20px 10px rgba(0, 0, 0, 0.25)',
+        'metodology': '7px 7px 30px 10px rgba(0, 0, 0, 0.4)'
       },
       backgroundImage: {
         'oportunites': "url('https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/3b36feb7-049e-4310-de71-88bbe0a15c00/public')",

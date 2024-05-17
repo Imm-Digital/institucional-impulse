@@ -36,7 +36,7 @@ function OpportunitiesComponent() {
                                 Em destaque
                             </div>
                         }
-                        <div className='bg-black p-6 lg:py-11 lg:px-16 rounded-[15px] shadow-custom-drop'>
+                        <div className='bg-black/50 p-6 lg:py-11 lg:px-16 rounded-[15px] shadow-custom-drop'>
                             <div className='w-full flex flex-col lg:flex-row gap-8'>
                                 <h3 className='text-white font-bold text-xl font-montserrat'>{title}</h3>
                                 { isHighligh && <div className='w-[198px] h-8 bg-green-700 rounded-md text-white text-[15px] font-bold flex items-center justify-center'>{top}</div>}
@@ -77,9 +77,9 @@ function OpportunitiesComponent() {
                                 <div className='flex lg:justify-between max-w-[200px] items-center gap-2'>
                                     <div className='flex gap-2 items-center text-green-700 text-xs font-bold font-montserrat'>Ranking: 
                                     <div>
-                                                {Array.from({ length: maxStars }, (_, i) => (
-                                                    <span key={i} className={`text-lg ${i < ranking ? 'text-white' : 'text-gray-500'}`}>★</span>
-                                                ))}
+                                        {Array.from({ length: maxStars }, (_, i) => (
+                                            <span key={i} className={`text-lg ${i < ranking ? 'text-white' : 'text-gray-500'}`}>★</span>
+                                        ))}
                                     </div>
                                     </div>
                                 </div>

@@ -18,13 +18,13 @@ function JobsComponent() {
 
   return (
     <div className='bg-white lg:py-32 flex flex-col items-center'>
-        <div className='bg-[#0D0D0D] p-6 lg:p-24 lg:w-[1119px] lg:rounded-[20px] shadow flex flex-col gap-16'>
+        <div className='bg-[#181818] p-6 lg:p-24 lg:w-[1119px] lg:rounded-[20px] shadow flex flex-col gap-16'>
             <h3 className='px-4 text-center text-white text-2xl lg:text-3xl font-bold font-josefin uppercase leading-10'>Profissões em destaque</h3>
             <div className='flex flex-col items-center gap-16'>
             {
                 jobs.map(({id, description, dificult, isHighligh, ranking, returnNumber, returnValue, title, top, url, value}) => (
                     <div key={id}>
-                    <div className='bg-black p-6 lg:py-11 lg:px-16 rounded-[15px] shadow'>
+                    <div className='bg-black/50 p-6 lg:py-11 lg:px-16 rounded-[15px] shadow-custom-drop'>
                         <div className='w-full flex flex-col lg:flex-row gap-8'>
                             <h3 className='text-white font-bold text-xl font-montserrat'>{title}</h3>
                         </div>

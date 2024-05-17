@@ -13,7 +13,7 @@ function WhatIsImpulse() {
                     <p className="max-w-[293px] text-black text-sm md:text-xl lg:text-2xl font-bold font-josefin uppercase mt-4 md:mt-0 md:ml-4 lg:absolute lg:top-48 lg:right-8">
                         Plataforma de treinamentos
                     </p>
-                    <img src='https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/32d80a2f-c823-4f13-1aa3-50fdc5d7ca00/public' className="max-w-full h-auto lg:min-w-[1200px]" />
+                    <img src='https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/bd9ae5b4-01c6-4fd8-19f3-db615cefa600/public' className="max-w-full h-auto lg:min-w-[1200px]" />
                 </div>
                 <div className="w-full flex flex-col-reverse lg:flex-row items-center justify-between lg:gap-9">
                     <p className="text-center lg:text-right text-black text-sm lg:text-2xl font-bold font-josefin uppercase lg:leading-10">Milhares Possibilidades de trabalhos encontradas no nosso Jobscanner</p>
