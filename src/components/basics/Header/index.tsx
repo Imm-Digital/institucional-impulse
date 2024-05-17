@@ -49,7 +49,7 @@ function Header({isHomePage, handleScroll}: HeaderType) {
                         </Link>
                       </div>
                     </div>
-                    <div className="max-h-[51px] cursor-pointer px-4 lg:px-9 py-3.5 rounded-[10px] border border-white justify-center items-center inline-flex">
+                    <div className="cursor-pointer px-4 lg:px-9 py-3.5 rounded-[10px] border border-white justify-center items-center inline-flex">
                       <div onClick={() => handleScroll()} className="text-center text-white text-base font-normal font-poppins">Melhores oportunidades</div>
                     </div>
                   </div>
