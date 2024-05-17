@@ -34,7 +34,7 @@ export default function Training() {
           <OpportunitiesComponent />
         </div>
         <FourthComponent />
-        {/* <FifthComponent /> */}
+        <FifthComponent /> 
         <AboutImpulse />
         <JobsComponent />
         <AskedQuestions />  

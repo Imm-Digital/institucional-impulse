@@ -1,6 +1,7 @@
 import React from 'react'
 import { homeDepoiments, theWay } from './data'
 import { CheckIcon } from '../icons/CheckIcon'
+import VideoPlayer from '../VideoPlayer'
 
 function HomeComponent() {
     return (
@@ -25,11 +26,14 @@ function HomeComponent() {
             </div>
             <div className='overflow-scroll lg:overflow-auto w-full flex gap-9 lg:gap-20 px-9 lg:px-0 lg:pl-[10%] 2xl:pl-[20%]'>
                 {
-                    homeDepoiments.map(({ id, name, depoiment }) => (
-                        <div key={id} className='flex flex-col justify-end px-5 w-full lg:w-[287px] h-[410px] bg-white py-9'>
-                            <div className='w-full min-w-[250px] min-h-[160px] bg-[#0A0020CC] p-6 rounded-xl flex flex-col justify-between'>
-                                <p className='text-gray-200 text-xs font-normal font-poppins'>{`"${depoiment}"`}</p>
+                    homeDepoiments.map(({ id, name, depoiment, vslId, isHorizontal }) => (
+                        <div key={id}>
+                        <div  className={`flex flex-col justify-end w-full ${isHorizontal ? 'w-[740px]' : 'w-[287px]'} h-[410px] bg-white`}>
+                            <VideoPlayer vslId={vslId} {...{ isHorizontal}}/>
+                        </div>
+                            <div className='w-full min-w-[250px] bg-[#0A0020CC] p-6 rounded-xl flex flex-col justify-between'>
                                 <p className='text-gray-200 text-xs font-semibold font-poppins'>{name}</p>
+                                <p className='text-gray-200 text-xs font-normal font-poppins'>{`${depoiment}`}</p>
                             </div>
                         </div>
                     ))

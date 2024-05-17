@@ -1,21 +1,18 @@
 export const homeDepoiments = [
     {
         id: 1,
-        name: 'Martina Saat',
-        depoiment: 'A impulse é muito legal, pipipi ,popopo',
-        image: ''
+        name: 'Ricardo Lemos',
+        depoiment: '',
+        vslId: '664763aa0d7300000b5a4a0a',
+        isHorizontal: false
+
     },
     {
-        id: 2,
-        name: 'Martina Saat',
-        depoiment: 'A impulse é muito legal, pipipi ,popopo',
-        image: ''
-    },
-    {
-        id: 3,
-        name: 'Martina Saat',
-        depoiment: 'A impulse é muito legal, pipipi ,popopo',
-        image: ''
+        id: 1,
+        name: 'Edilson Targina',
+        depoiment: '',
+        vslId: '66476ed1f9bdd1000b8a6638',
+        isHorizontal: true
     },
 ]
 
