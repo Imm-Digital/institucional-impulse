@@ -14,9 +14,10 @@ function WhyImpulse() {
                 <CheckIcon />
             </div>
             <p className="lg:text-end text-[15px] font-normal font-montserrat">
-              A Impulse é para quem quer uma formação prática.<br/><br/>
-              A Impulse é para aqueles que, através da internet, procuram aumentar ou complementar sua renda atual e necessitam de um treinamento prático com resultados reais.<br/><br/>
-              É para qualquer pessoa independente do nível de instrução, conhecimento, idade ou familiaridade com tecnologias.
+              A Impulse é para quem está cansado de fazer um trabalho extremamente cansativo para um retorno baixo e precisa ter acesso a uma renda honesta com resultados reais.<br/><br/>
+              É para aqueles que, através da internet, procuram aumentar ou complementar sua renda atual e necessitam de um treinamento prático mostrando exatamente como é possível realizar serviços online e ser pago para isso.
+              É para qualquer pessoa independente do nível de instrução, conhecimento, idade ou familiaridade com tecnologias.<br/><br/>
+              É para quem busca liberdade, autonomia e resultados financeiros concretos para a sua vida.
             </p>
           </div>
         </div>
