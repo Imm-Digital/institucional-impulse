@@ -17,7 +17,7 @@ function WhatIsImpulse() {
                 </div>
                 <div className="w-full flex flex-col-reverse lg:flex-row items-center justify-between lg:gap-9">
                     <p className="text-center lg:text-right text-black text-sm lg:text-2xl font-bold font-josefin uppercase lg:leading-10">Milhares Possibilidades de trabalhos encontradas no nosso Jobscanner</p>
-                    <img src='https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/2acc17a2-4d8f-49de-6739-ab809993ad00/public' className="lg:w-[761px] lg:h-[692px] max-w-full h-auto" />
+                    <img src='https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/7c87b42c-0af6-452e-b8bc-360fe09dab00/public' className="lg:w-[761px] lg:h-[692px] max-w-full h-auto" />
                 </div>
             </div>
         </div>
