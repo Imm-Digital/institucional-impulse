@@ -29,7 +29,7 @@ function Header({isHomePage, handleScroll}: HeaderType) {
         <img src={'https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/7fe02802-a7b5-47ac-e16b-247283a67900/public'} alt='Impulse-logo' className='w-[31px] h-[19px]' />
         {
           isHomePage ? (
-                isMobile ? ( <div><MobileMenu /></div> ) : (
+                isMobile ? ( <div className='relative w-full'><MobileMenu /></div> ) : (
                   <div className='flex gap-20 items-center'>
                   <div className='flex gap-6'>
                     <div className=" flex flex-col cursor-pointer px-4 lg:px-11 py-4 bg-vivid-purple rounded-[10px] justify-center items-center " onClick={toggleMenu}>

@@ -48,7 +48,7 @@ function OpportunitiesComponent() {
                                         <p className='text-white text-xs font-normal font-montserrat'>Investimento: {value}</p>
                                         <p className='text-white text-xs font-normal font-montserrat'>Média de retorno: {returnValue}</p>
                                     </div>
-                                    <div className='lg:py-4 flex flex-col items-end  z-0'>
+                                    <div className='lg:py-4 flex flex-col items-start lg:items-end z-0'>
                                         <div className='flex gap-2 items-center font-bold text-white font-montserrat text-xs z-10'>
                                             Dificuldade:
                                             <div className="relative w-20 h-4">
