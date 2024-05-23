@@ -9,8 +9,8 @@ function FifthComponent() {
       <div className='overflow-scroll lg:overflow-auto w-full flex gap-9 lg:gap-20 px-9 lg:px-0 lg:pl-[10%] 2xl:pl-[20%]'>
         {
             homeDepoiments.map(({ id, name, depoiment, vslId, isHorizontal }) => (
-                <div key={id} className='flex flex-col gap-4'>
-                <div  className={`flex flex-col justify-end w-full ${isHorizontal ? 'w-[740px]' : 'w-[287px]'} h-[410px] bg-white`}>
+                <div key={id}>
+                <div  className={`flex flex-col justify-end ${isHorizontal ? 'w-[740px]' : 'w-[287px]'} h-[410px] bg-white`}>
                     <VideoPlayer vslId={vslId} {...{ isHorizontal}}/>
                 </div>
                     <div className='w-full min-w-[250px] bg-[#0A0020CC] p-6 rounded-xl flex flex-col justify-between'>

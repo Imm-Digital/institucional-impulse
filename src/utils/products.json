@@ -3,39 +3,39 @@
         {
             "id": 1,
             "title": "Profissional de Digitação",
-            "about": "O que você poderá fazer: digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras ativides que envolvem",
+            "about": "O que você poderá fazer: digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras atividades que envolvem",
             "lastMonths": [
-               {
-                "id": 1,
-                "title": "Média de vagas diárias abertas:",
-                "value": "170"
-               },
-               {
-                "id": 2,
-                "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
-                "value": "10"
-               },
-               {
-                "id": 3,
-                "title": "Média de retorno por serviço: ",
-                "value": "R$ 200"
-               },
-               {
-                "id": 4,
-                "title": "Média de tempo para ter o primeiro retorno: ",
-                "value": "14 dias"
-               },
-               {
-                "id": 5,
-                "title": "Tempo para realizar o treinamento: ",
-                "value": "um turno"
-               }
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "170"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 200"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "14 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
             ],
             "steps": [
                 {
                     "id": 1,
                     "title": "Escolha da profissão ",
-                    "text": "Profissional de digitação é  oportunidade com maior custo benefício. A quantidade de vagas abertas diariamente é enorme e os serviços realizados não são complexos de aprender. É ideal para quem necessita de ganhos rápidos sem grandes dificuldades.",
+                    "text": "Profissional de digitação é oportunidade com maior custo benefício. A quantidade de vagas abertas diariamente é enorme e os serviços realizados não são complexos de aprender. É ideal para quem necessita de ganhos rápidos sem grandes dificuldades.",
                     "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
                 },
                 {
@@ -53,7 +53,7 @@
             ],
             "feedback": {
                 "name": "Elisa pedroso (paraná)",
-                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias  que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda. ”",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
                 "product": "Profissional de Digitação",
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
@@ -63,39 +63,39 @@
         {
             "id": 2,
             "title": "Profissional de Redes sociais",
-            "about": "O que você poderá fazer: Criar post para redes sociais, entre outras artes gráficas como banners, panfleto, cardápios, logos e apresentações.",
+            "about": "O que você poderá fazer: Criar post para redes sociais, entre outras artes gráficas como banners, panfletos, cardápios, logos e apresentações.",
             "lastMonths": [
-               {
-                "id": 1,
-                "title": "Média de vagas diárias abertas:",
-                "value": "250"
-               },
-               {
-                "id": 2,
-                "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
-                "value": "13"
-               },
-               {
-                "id": 3,
-                "title": "Média de retorno por serviço: ",
-                "value": "R$ 350"
-               },
-               {
-                "id": 4,
-                "title": "Média de tempo para ter o primeiro retorno: ",
-                "value": "14 dias"
-               },
-               {
-                "id": 5,
-                "title": "Tempo para realizar o treinamento: ",
-                "value": "um turno"
-               }
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "250"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "13"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 350"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "14 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
             ],
             "steps": [
                 {
                     "id": 1,
                     "title": "Escolha da profissão ",
-                    "text": "profissional de redes social é a profissão com um grau de dificuldade um pouco mais alto para aprender, mas a oportunidade com o melhor retorno financeiro e o maior número de vagas de serviços disponíveis. Ideal para quem está disposto a botar um pouco mais de empenho e necessita de retornos mais altos.",
+                    "text": "Profissional de redes sociais é a profissão com um grau de dificuldade um pouco mais alto para aprender, mas a oportunidade com o melhor retorno financeiro e o maior número de vagas de serviços disponíveis. Ideal para quem está disposto a botar um pouco mais de empenho e necessita de retornos mais altos.",
                     "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
                 },
                 {
@@ -113,7 +113,7 @@
             ],
             "feedback": {
                 "name": "Elisa pedroso (paraná)",
-                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias  que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda. ”",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
                 "product": "Profissional de Digitação",
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
@@ -123,33 +123,33 @@
         {
             "id": 3,
             "title": "Assistente virtual",
-            "about": "O que precisa fazer: trabalhos adiministrativo, organização de planilhas, documentações, gerenciamento de email e organização de agenda.",
+            "about": "O que precisa fazer: trabalhos administrativos, organização de planilhas, documentações, gerenciamento de email e organização de agenda.",
             "lastMonths": [
-               {
-                "id": 1,
-                "title": "Média de vagas diárias abertas:",
-                "value": "90"
-               },
-               {
-                "id": 2,
-                "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
-                "value": "9"
-               },
-               {
-                "id": 3,
-                "title": "Média de retorno por serviço: ",
-                "value": "R$ 200"
-               },
-               {
-                "id": 4,
-                "title": "Média de tempo para ter o primeiro retorno: ",
-                "value": "14 dias"
-               },
-               {
-                "id": 5,
-                "title": "Tempo para realizar o treinamento: ",
-                "value": "um turno"
-               }
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "90"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "9"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 200"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "14 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
             ],
             "steps": [
                 {
@@ -173,7 +173,7 @@
             ],
             "feedback": {
                 "name": "Elisa pedroso (paraná)",
-                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias  que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda. ”",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
                 "product": "Profissional de Digitação",
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
@@ -183,28 +183,28 @@
         {
             "id": 4,
             "title": "Profissional de pesquisas online",
-            "about": " O que precisa fazer: responder pesquisas, avaliar produtos e serviços.",
+            "about": "O que precisa fazer: responder pesquisas, avaliar produtos e serviços.",
             "lastMonths": [
-               {
-                "id": 1,
-                "title": "Média de vagas diárias abertas:",
-                "value": "5"
-               },
-               {
-                "id": 3,
-                "title": "Média de retorno por serviço: ",
-                "value": "R$ 5"
-               },
-               {
-                "id": 4,
-                "title": "Média de tempo para ter o primeiro retorno: ",
-                "value": "1 dia"
-               },
-               {
-                "id": 5,
-                "title": "Tempo para realizar o treinamento: ",
-                "value": "um turno"
-               }
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "5"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 5"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
             ],
             "steps": [
                 {
@@ -228,12 +228,1092 @@
             ],
             "feedback": {
                 "name": "Elisa pedroso (paraná)",
-                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias  que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda. ”",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
                 "product": "Profissional de Digitação",
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "pesquisa-online",
-            "url": "https://checkout.payt.com.br/61b07251e835d37322b7460d2b88c05b??src=site"
+            "url": "https://checkout.payt.com.br/61b07251e835d37322b7460d2b88c05b?src=site"
+        },
+        {
+            "id": 5,
+            "title": "Profissional de Tradução",
+            "about": "O que você poderá fazer: traduções básicas, tradução de vídeos, ebooks, fazer dublagens em qualquer idioma, entre outras atividades que envolvem.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "2"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 125"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "7 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Profissional de tradução é uma ótima opção para quem tem facilidade com idiomas e deseja trabalhar de forma autônoma. Você pode trabalhar com diversos tipos de traduções e ganhar por cada serviço realizado.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "traducao",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 6,
+            "title": "Profissional de Locução",
+            "about": "O que você poderá fazer: realizar locuções para VSL’s, detalhe de locuções para Youtube, maneiras de editar suas locuções, técnicas vocais, etc.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "6"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 150"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "7 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Profissional de locução é uma ótima opção para quem tem uma boa voz e deseja trabalhar de forma autônoma. Você pode fazer locuções para diversos tipos de mídias e ganhar por cada serviço realizado.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "locucao",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 7,
+            "title": "Profissional de Telemarketing",
+            "about": "O que você poderá fazer: criar portfólio profissional, técnicas vocais, agendamento de reuniões, contato com clientes e fechamento de vendas.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "10"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 150"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "7 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Profissional de telemarketing é uma ótima opção para quem tem facilidade em se comunicar e deseja trabalhar de forma autônoma. Você pode fazer contatos com clientes e fechar vendas por telefone.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "telemarketing",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 8,
+            "title": "UGC Creator",
+            "about": "O que você poderá fazer: produzir conteúdo para a marca, utilizar as redes sociais para otimizar seu trabalho, fazer seu primeiro vídeo, entre outras atividades que envolvem.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "10"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 300"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "7 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "UGC Creator é uma ótima opção para quem gosta de criar conteúdo e deseja trabalhar de forma autônoma. Você pode produzir conteúdo para marcas e ganhar por cada serviço realizado.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "ugc-creator",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 9,
+            "title": "Assistente de Chat Suporte",
+            "about": "O que você poderá fazer: trabalhar em outros idiomas, gerenciar e-mail, data entry, entre outras atividades que envolvem.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "3"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 200"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "7 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Assistente de Chat Suporte é uma ótima opção para quem tem facilidade em se comunicar e deseja trabalhar de forma autônoma. Você pode gerenciar e-mails e realizar data entry para diversos tipos de clientes.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "assistente-chat-suporte",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 10,
+            "title": "Agente de Chat",
+            "about": "O que você poderá fazer: atendimento ao cliente via chat, resolver problemas, técnicas de satisfação do cliente, métricas de serviço, etc.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "3"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 200"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "7 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Agente de Chat é uma ótima opção para quem tem facilidade em se comunicar e deseja trabalhar de forma autônoma. Você pode fazer atendimento ao cliente e resolver problemas via chat para diversos tipos de clientes.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "agente-chat",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 11,
+            "title": "Profissional de Home Office",
+            "about": "O que você poderá fazer: digitar e formatar textos e artigos, criar ebooks, transcrever áudios para textos, realizar correções, criar roteiros, entre outras atividades que envolvem.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "15"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 150"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "7 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Profissional de Home Office é uma ótima opção para quem deseja trabalhar de casa e tem habilidades de digitação e formatação de textos. Você pode realizar diversos tipos de atividades e ganhar por cada serviço realizado.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "home-office",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 12,
+            "title": "Empacotador Profissional",
+            "about": "O que você poderá fazer: adicionar produtos no Shopify, fazer upload de um artigo no Wordpress, registrar de produtos na Amazon, analisar e registrar dados em sistemas, etc.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "15"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 100"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "7 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Empacotador Profissional é uma ótima opção para quem deseja trabalhar com a organização e cadastro de produtos em diversas plataformas online. Você pode adicionar produtos em lojas virtuais e registrar dados em sistemas.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "empacotador-profissional",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 13,
+            "title": "Avaliador de Músicas",
+            "about": "O que você poderá fazer: ouvir e avaliar músicas em plataformas e aplicativos que vão lhe pagar por isso.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "3"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Avaliador de Músicas é uma ótima opção para quem gosta de ouvir músicas e deseja ganhar dinheiro por isso. Você pode avaliar músicas em diversas plataformas e aplicativos.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "avaliador-musicas",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 14,
+            "title": "Avaliador de Vídeos",
+            "about": "O que você poderá fazer: ouvir e avaliar vídeos em plataformas e aplicativos que vão lhe pagar por isso.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "6"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Avaliador de Vídeos é uma ótima opção para quem gosta de assistir vídeos e deseja ganhar dinheiro por isso. Você pode avaliar vídeos em diversas plataformas e aplicativos.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "avaliador-videos",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 15,
+            "title": "Profissional de Pesquisas Online",
+            "about": "O que precisa fazer: responder pesquisas, avaliar produtos e serviços.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "5"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 5"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Profissional de Pesquisas Online é uma ótima opção para quem deseja trabalhar respondendo pesquisas e avaliando produtos e serviços. Você pode realizar essas atividades em diversas plataformas online e ganhar por cada serviço realizado.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "pesquisas-online",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 16,
+            "title": "Remunera App",
+            "about": "O que você poderá fazer: revisar se existe algum problema em aplicativos e plataformas e ser pago por isso.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "4"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Remunera App é uma ótima opção para quem deseja ganhar dinheiro revisando aplicativos e plataformas em busca de problemas. Você pode realizar essas atividades em diversas plataformas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "remunera-app",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 17,
+            "title": "Avaliador de Mídias",
+            "about": "O que você poderá fazer: segmentar corretamente as palavras, páginas, endereços e publicações para melhorar a usabilidade do usuário ao fazer uma busca.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "6"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Avaliador de Mídias é uma ótima opção para quem deseja melhorar a usabilidade de sites e publicações segmentando corretamente as palavras, páginas e endereços. Você pode realizar essas atividades em diversas plataformas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "avaliador-midias",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 18,
+            "title": "Auxiliar de Produção",
+            "about": "O que você poderá fazer: realizar procedimentos estabelecidos para garantir a eficiência e a qualidade do processo de embalagem.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "2"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Auxiliar de Produção é uma ótima opção para quem deseja trabalhar com a garantia de eficiência e qualidade no processo de embalagem. Você pode realizar essas atividades em diversas plataformas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "auxiliar-producao",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 19,
+            "title": "Afiliado Digital",
+            "about": "O que você poderá fazer: indicar produtos feitos por outras pessoas e receber comissões pelas vendas realizadas.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "5"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Afiliado Digital é uma ótima opção para quem deseja ganhar dinheiro indicando produtos de outras pessoas. Você pode realizar essas atividades em diversas plataformas online e receber comissões pelas vendas realizadas.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "afiliado-digital",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 20,
+            "title": "Cliente Oculto",
+            "about": "O que você poderá fazer: fazer compras e avaliar secretamente a empresa onde a compra foi feita.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "3"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Cliente Oculto é uma ótima opção para quem deseja ganhar dinheiro fazendo compras e avaliando secretamente a empresa onde a compra foi feita. Você pode realizar essas atividades em diversas plataformas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "cliente-oculto",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 21,
+            "title": "Profissional de Milhas",
+            "about": "O que você poderá fazer: introduzir conceitos de custo médio dinâmico, administração de estoque e gestão de contas.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "2"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Profissional de Milhas é uma ótima opção para quem deseja trabalhar com administração de estoque e gestão de contas. Você pode realizar essas atividades em diversas plataformas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "profissional-milhas",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+        },
+        {
+            "id": 22,
+            "title": "Avaliador de Produtos",
+            "about": "O que você poderá fazer: entrar em plataformas de avaliação e avaliar produtos em geral.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "3"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "10"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "1 dia"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Avaliador de Produtos é uma ótima opção para quem deseja ganhar dinheiro avaliando produtos em plataformas online. Você pode realizar essas atividades em diversas plataformas e ganhar por cada avaliação realizada.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https: //imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "avaliador-produtos",
+            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
         }
     ]
 }

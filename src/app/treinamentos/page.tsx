@@ -31,7 +31,7 @@ export default function Training() {
         <FirstComponent />
         <SecondComponent />
         <div ref={ref}>
-          <OpportunitiesComponent />
+          <OpportunitiesComponent isTrainingPage />
         </div>
         <FourthComponent />
         <FifthComponent /> 
