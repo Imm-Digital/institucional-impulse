@@ -293,7 +293,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "traducao",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/e61eaa38aed621dd776d0e67cfeee366?src=site"
         },
         {
             "id": 6,
@@ -353,7 +353,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "locucao",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/b6af2c9703f203a2794be03d443af2e3?src=site"
         },
         {
             "id": 7,
@@ -413,7 +413,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "telemarketing",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/c7c46d4baf816bfb07c7f3bf96d88544?src=site"
         },
         {
             "id": 8,
@@ -473,7 +473,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "ugc-creator",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/25da78139c03b69098a5fa566a61b115?src=site"
         },
         {
             "id": 9,
@@ -533,7 +533,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "assistente-chat-suporte",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/54ecc28e9508fcf28363014b0d1b4eb8?src=site"
         },
         {
             "id": 10,
@@ -593,7 +593,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "agente-chat",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/9be2610ec283e1a45c7642ab8dcd713b?src=site"
         },
         {
             "id": 11,
@@ -653,7 +653,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "home-office",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/912dcb7dd52746d40917ed1c6fdb9de5?src=site"
         },
         {
             "id": 12,
@@ -713,7 +713,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "empacotador-profissional",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/be9e47ef1ac42972d5bee9836c8c7b73?src=site"
         },
         {
             "id": 13,
@@ -773,7 +773,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "avaliador-musicas",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/497e5e9501f2ffbc07b4db02c8c5421e?src=site"
         },
         {
             "id": 14,
@@ -833,67 +833,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "avaliador-videos",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
-        },
-        {
-            "id": 15,
-            "title": "Profissional de Pesquisas Online",
-            "about": "O que precisa fazer: responder pesquisas, avaliar produtos e serviços.",
-            "lastMonths": [
-                {
-                    "id": 1,
-                    "title": "Média de vagas diárias abertas:",
-                    "value": "5"
-                },
-                {
-                    "id": 2,
-                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
-                    "value": "10"
-                },
-                {
-                    "id": 3,
-                    "title": "Média de retorno por serviço: ",
-                    "value": "R$ 5"
-                },
-                {
-                    "id": 4,
-                    "title": "Média de tempo para ter o primeiro retorno: ",
-                    "value": "1 dia"
-                },
-                {
-                    "id": 5,
-                    "title": "Tempo para realizar o treinamento: ",
-                    "value": "um turno"
-                }
-            ],
-            "steps": [
-                {
-                    "id": 1,
-                    "title": "Escolha da profissão ",
-                    "text": "Profissional de Pesquisas Online é uma ótima opção para quem deseja trabalhar respondendo pesquisas e avaliando produtos e serviços. Você pode realizar essas atividades em diversas plataformas online e ganhar por cada serviço realizado.",
-                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
-                },
-                {
-                    "id": 2,
-                    "title": "Treinamento",
-                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
-                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
-                },
-                {
-                    "id": 3,
-                    "title": "Jobscanner",
-                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
-                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
-                }
-            ],
-            "feedback": {
-                "name": "Elisa pedroso (paraná)",
-                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
-                "product": "Profissional de Digitação",
-                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
-            },
-            "slug": "pesquisas-online",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/f5532381792b4aafeb9e52a68bf568de?src=site"
         },
         {
             "id": 16,
@@ -953,7 +893,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "remunera-app",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/e33bff0ce02e89288c6ffe7cdd646389?src=site"
         },
         {
             "id": 17,
@@ -1013,7 +953,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "avaliador-midias",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/ef8b5fcc338e003145ac9c134754db71?src=site"
         },
         {
             "id": 18,
@@ -1073,7 +1013,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "auxiliar-producao",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/d3dc22ad3ee79f300ae1c20bc9554d87?src=site"
         },
         {
             "id": 19,
@@ -1133,7 +1073,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "afiliado-digital",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/ea415b5f7047769aac77f70df7226a85?src=site"
         },
         {
             "id": 20,
@@ -1193,7 +1133,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "cliente-oculto",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/ae64862963de122e67bd777f85f5bfb9?src=site"
         },
         {
             "id": 21,
@@ -1253,7 +1193,7 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "profissional-milhas",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/9246ebba512de14e76283df2772bba5c?src=site"
         },
         {
             "id": 22,
@@ -1313,7 +1253,67 @@
                 "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
             },
             "slug": "avaliador-produtos",
-            "url": "https://checkout.payt.com.br/2004e0f2b74655ee92d3a6af6bdb6626?src=site"
+            "url": "https://checkout.payt.com.br/a92df7cbfdddcc938abc806992026a19?src=site"
+        },
+        {
+            "id": 22,
+            "title": "Assistente Administrativo Remoto",
+            "about": "O que você poderá fazer: trabalhos administrativos, organização de planilhas, documentações, gerenciamento de email e organização de agenda.",
+            "lastMonths": [
+                {
+                    "id": 1,
+                    "title": "Média de vagas diárias abertas:",
+                    "value": "13"
+                },
+                {
+                    "id": 2,
+                    "title": "Média de quantas vagas precisa se candidatar para conseguir um serviço:",
+                    "value": "7"
+                },
+                {
+                    "id": 3,
+                    "title": "Média de retorno por serviço: ",
+                    "value": "R$ 100,00"
+                },
+                {
+                    "id": 4,
+                    "title": "Média de tempo para ter o primeiro retorno: ",
+                    "value": "7 dias"
+                },
+                {
+                    "id": 5,
+                    "title": "Tempo para realizar o treinamento: ",
+                    "value": "um turno"
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Escolha da profissão ",
+                    "text": "Assistente Administrativo Remoto é uma ótima opção para quem deseja ganhar dinheiro avaliando produtos em plataformas online. Você pode realizar essas atividades em diversas plataformas e ganhar por cada avaliação realizada.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/42b4a034-b1ab-496a-6a1a-fce9eee5b000/public"
+                },
+                {
+                    "id": 2,
+                    "title": "Treinamento",
+                    "text": "Faça um treinamento curto e extremamente prático. Por mais que os serviços sejam simples, é preciso estar apto a realizá-los. Você aprende exatamente o que vai exercer e em pouco tempo pode começar a se candidatar para as vagas online.",
+                    "icon": "https: //imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/22c79fa8-1806-4ff0-2b7a-5611af4c7100/public"
+                },
+                {
+                    "id": 3,
+                    "title": "Jobscanner",
+                    "text": "Nossa aba de trabalhos onde você vai conseguir ver milhares de oportunidades de serviços online em tempo real, filtrar o que faz mais sentido para você e se candidatar para as melhores.",
+                    "icon": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/6d9b29ee-9ed8-4b99-2597-639c3612cc00/public"
+                }
+            ],
+            "feedback": {
+                "name": "Elisa pedroso (paraná)",
+                "text": "“Eu sou Designer de Unha há 10 anos e sempre sofri muito com épocas que estava com poucas clientes ou ainda dias que marcavam comigo e não apareciam. Fiz o treinamento da Impulse de digitação faz 7 meses e tenho uma tranquilidade financeira que nunca tive antes. Sei que qualquer dia que não consigo clientes posso me candidatar para uns 3 ou 4 trabalhos online, ser escolhida para um e fazer meu dinheiro do dia. Mês passado minha bebe ficou doente também e consegui ficar em casa cuidando dela e fazendo meu dinheirinho. Se estivesse trabalhando só com unha ia ser um Deus nos Acuda.”",
+                "product": "Profissional de Digitação",
+                "image": "https://imagedelivery.net/PFtWkgz-CXgygNiSTt_A-w/c904cf42-2214-4f20-697c-737b1d2d8600/public"
+            },
+            "slug": "assistente-administrativo",
+            "url": "https://checkout.payt.com.br/409072cb60e202d2797a91e395909240?src=site"
         }
     ]
 }
