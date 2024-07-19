@@ -38,9 +38,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="pt-br">
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="canonical" href="https://beimpulse.com" />
       </head>
       <body className={`${inter.className}, ${poppins.className}, ${josefin.className}, ${montserrat.className}`}>
         <GoogleTagManager gtmId={'GTM-WCVRKTHV'} />
