@@ -70,8 +70,8 @@ async redirects() {
   },
     
     images: {
-      domains: ['imagedelivery.net']
+      domains: ['imagedelivery.net'],
     },
   };
   
-  module.exports = nextConfig;
+  export default nextConfig;
